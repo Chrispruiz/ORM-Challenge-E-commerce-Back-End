@@ -2,7 +2,7 @@
   
   ## Description: 
   This project is the back end of an e-commerce site. This application allows users to add, update and delete products, categories, tags, and data within each section.
-  [Walkthrough Video of the Application]
+  [Walkthrough Video of the Application](https://drive.google.com/file/d/1ixdcsgsZTmPNXrOXUUUzgpKCPZjnyF4y/view)
   ## Table of Contents
   * [Tools Used](#tools%20used) 
   * [Installation](#installation)
@@ -43,6 +43,7 @@
 
   ## Usage:
   ![Gif Demo](./video/Gif.gif)
+  
   This application stores data using POST, updates using PUT, deletes using DELETE, and recalls the information with GET. 
   
 
