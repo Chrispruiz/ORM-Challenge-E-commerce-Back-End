@@ -1,7 +1,7 @@
 # E-Commerce Back End
   
   ## Description: 
-  This project is the back end of an e-commerce site. This application allows users to add, update and delete products, categories, tags, and data within each section.
+  This project is the back end of an e-commerce site. This application allows users to add, update and delete products, categories, tags, and data within each section using RESTful API routes. This application uses Express.js to run the server, MySQL for the database, and Sequelize for Object-Relational Mapping (ORM) to run SQL models.
 
   [GitHub link](https://github.com/Chrispruiz/ORM-Challenge-E-commerce-Back-End.git)
 
